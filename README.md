@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Copyright & License
+The MIT License (MIT), Copyright (c) 2022 dayutianfei. [Read full document.](LICENSE)
